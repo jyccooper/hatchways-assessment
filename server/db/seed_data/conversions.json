@@ -1,0 +1,40 @@
+{
+  "conversions": [
+    {
+      "id": 1,
+      "from_curr": "USD",
+      "to_curr": "CAD",
+      "rate": 1.35
+    },
+    {
+      "id": 2,
+      "from_curr": "CAD",
+      "to_curr": "USD",
+      "rate": 0.74
+    },
+    {
+      "id": 3,
+      "from_curr": "USD",
+      "to_curr": "EUR",
+      "rate": 0.94
+    },
+    {
+      "id": 4,
+      "from_curr": "EUR",
+      "to_curr": "USD",
+      "rate": 1.07
+    },
+    {
+      "id": 5,
+      "from_curr": "EUR",
+      "to_curr": "CAD",
+      "rate": 1.45
+    },
+    {
+      "id": 6,
+      "from_curr": "CAD",
+      "to_curr": "EUR",
+      "rate": 0.69
+    }
+  ]
+}
